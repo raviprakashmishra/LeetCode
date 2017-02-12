@@ -1,3 +1,3 @@
 # LeetCode
 
-Solving primiraly leetcode algorithm questions in Java.
+### Solving primiraly leetcode algorithm questions in Java.
